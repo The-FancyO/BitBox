@@ -5,7 +5,7 @@ const sunIcon = (
     height="24"
     fill="none"
     viewBox="0 0 25 24"
-    className="dark:opacity-5"
+    className="dark:opacity-100"
   >
     <g
       stroke="#fff"
