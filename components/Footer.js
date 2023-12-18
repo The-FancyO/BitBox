@@ -34,7 +34,7 @@ const moonIcon = (
     width="25"
     height="24"
     fill="none"
-    viewBox="0 0 21 20"
+    viewBox="0 0 25 24"
   >
     <path
       stroke="#fff"
