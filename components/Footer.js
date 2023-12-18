@@ -31,8 +31,8 @@ const sunIcon = (
 const moonIcon = (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="21"
-    height="20"
+    width="25"
+    height="24"
     fill="none"
     viewBox="0 0 21 20"
   >
