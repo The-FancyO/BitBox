@@ -4,7 +4,7 @@ export const getGlobalData = () => {
     : 'BitBox Software';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
-    : 'BitBox Development Blog';
+    : 'BitBox Blog';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
     : 'All rights reserved.';
